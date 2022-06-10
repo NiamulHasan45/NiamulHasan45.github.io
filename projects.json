@@ -1,50 +1,47 @@
 [
-    {
-        "name": "YAMAHA R15 VERSION-4",
-        "price": "340000BDT",
-        "img": "https://i.ibb.co/9sJ8q52/Daco-110958.png",
-        "description": "The Yamaha YZF-R15 can easily feature on the list of most popular motorcycles sold in India. A very potent 150cc engine, a phenomenal delta box frame and a very sporty styling were a few quality features of the Yamaha R15 which had truly blown the minds of the customers back in 2008 when it was first introduced.",
-        "quantity": "30",
-        "supplier": "Globel Yamaha"
-    },
-    {
-        "name": "VINTAGE ANONYMOUS",
-        "price": "56000BDT",
-        "img": "https://i.ibb.co/VmDpgwD/Daco-111469.png",
-        "description": "MV Agusta is all about crafting motorcycle art since 1945. Each motorcycle is handcrafted and assembled by expert and passionate technicians.The story of Agusta started in 1907, when Count Giovanni Agusta, a Sicilian aristocrat with a passion for flying machines, founded the Agusta aeronautics.",
-        "quantity": "3",
-        "supplier": "Robert Downy Junior"
-    },
-    {
-        "name": "HERLEY DAVIDSON",
-        "price": "90000BDT",
-        "img": "https://i.ibb.co/vDN2VRw/Daco-112205.png",
-        "description": "Harley-Davidson, Inc., H-D, or Harley, is an American motorcycle manufacturer founded in 1903 in Milwaukee, Wisconsin. Along with Indian, it was one of two major American motorcycle manufacturers to survive the Great Depression.Harley-Davidson creates products, services and experiences that inspire our customers to discover.",
-        "quantity": "9",
-        "supplier": "David Backham"
-    },
-    {
-        "name": "ROYAL ENFIELD",
-        "price": "40000BDT",
-        "img": "https://i.ibb.co/p4s6sJW/Daco-1238137.png",
-        "description": "Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu, India. The company is the oldest global motorcycle brand in continuous production, and operates manufacturing plants in Chennai in India.The Enfield Cycle Company made motorcycles, bicycles, lawnmowers.",
-        "quantity": "15",
-        "supplier": "Mokesh Patel"
-    },
-    {
-        "name": "VINTAGE FTR 1200",
-        "price": "800000BDT",
-        "img": "https://i.ibb.co/4YYjJG6/Daco-1543416.png",
-        "description": "Indian Motorcycle motorcycles are very exclusive bikes. But here too there are many ways to live out your individuality. No matter whether exhaust system, handlebars, turn signals, special paintwork or refinements down to the smallest detail. We make your already special machine unique!",
-        "quantity": "12",
-        "supplier": "Mark Peter"
-    },
-    {
-        "name": "CAN AM SPYDER",
-        "price": "110000BDT",
-        "img": "https://i.ibb.co/VtHhqkK/Daco-3950491.png",
-        "description": "The Can-Am Spyder is a three-wheeled motorcycle manufactured by Can-Am motorcycles, a division of Bombardier Recreational Products. The vehicle has a single rear drive wheel and two wheels in front for steering, similar in layout to a modern snowmobile. The Spyder uses an ATV-like chassis.",
-        "quantity": "7",
-        "supplier": "Mr. Sojib Khan"
-    }
+  {
+    "id": 0,
+    "date": "Project Duration  12/2/22",
+    "title": "ELECTRONIC EXPRESS",
+    "image": "./asset/p1.jpg",
+    "description": "It is a store room where anybody can order products with a secured Login System, Products  will add to your cart. Payment system is also implemented. Admins can manage products, they also have the power to make anybody as admin. All products and users information stored in the database and updated automatically.",
+    "technology": "MERN stack, Tailwind, DaisyUI, Javascript ES6, Firebase Authentication, Stripe, Payment System, JWT Token, Heroku, Firebase Hoisting, imagebb. ",
+    "link": "https://electronic-express.web.app/"
+  },
+  {
+    "id": 1,
+    "date": "Project Duration  12/2/22",
+    "title": "MOTORCYCLE INVENTORY",
+    "image": "./asset/p2.jpg",
+    "description": "It is a product management store to add, manage and deliver products.You can securely login here and you can add and deliver products to manage easily. Very easy and user-friendly user-interface will give you a smooth experience.",
+    "technology": "MERN stack, Javascript ES6, Firebase Authentication, Heroku, Firebase Hoisting. ",
+    "link": "https://motorcycle-inventory-764ea.web.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "FITBUZZ GYM ",
+    "image": "./asset/p3.jpg",
+    "description": "You can securely login here and purchase all the services with the lowest rate. Very easy and user-friendly user-interface will give you a smooth experience. ",
+    "technology": "React JS, React Query, React Router, React Bootstrap, Javascript ES6, Firebase Authentication, Firebase Hoisting.",
+    "link": "https://fitbuzz-gym.web.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "Elegent Store",
+    "image": "./asset/p4.jpg",
+    "description": "You can add prouct on the cart and remove product from the cart. ",
+    "technology": "React JS, Javascript ES6, netlify hosting.",
+    "link": "https://elegent-store.netlify.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "Letter Box ",
+    "image": "./asset/p5.jpg",
+    "description": "React router is used to easy routing. Rechart showed the visual representation of data. ",
+    "technology": "React JS, React router, recharts, Javascript ES6, netlify hosting.",
+    "link": "https://zippy-tanuki-4e2d1d.netlify.app/"
+  }
 ]
